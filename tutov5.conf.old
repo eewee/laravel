@@ -1,0 +1,5 @@
+NameVirtualHost tutov5.dev
+<VirtualHost tutov5.dev>
+    DocumentRoot C:/wamp64/www/tutov5/public/
+    ServerName tutov5.dev
+</VirtualHost>
